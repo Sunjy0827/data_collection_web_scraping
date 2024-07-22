@@ -6,7 +6,6 @@
 This assignment is to use web scraping technique to extract and extract Mars news and weather data from the articles on the website 
 <a>https://static.bc-edx.com/data/web/mars_news/index.html</a>
 
-
 </p>
 
 <h3>Overview</h3>
@@ -58,4 +57,9 @@ Goal:
 <hr/>
 <p>
 This assignment showcased the effective use of web scraping to gather and analyze data from Mars-related websites, yielding valuable insights into Martian months, days, temperature, and atmospheric pressure.
+
+
+<b>*P.S:</b> Part II questions are answered in the part_2_mars_weather jupyter notebook file.
+
+
 </p>
